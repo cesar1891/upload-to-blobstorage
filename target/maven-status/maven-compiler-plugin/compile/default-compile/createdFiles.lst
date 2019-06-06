@@ -1,0 +1,10 @@
+com/banorte/db/DbConnection.class
+com/banorte/azure/blobstorage/RowToByteArrayConverter.class
+com/banorte/db/DbConnection$Builder.class
+com/banorte/db/DbConnection$1.class
+com/banorte/azure/blobstorage/BlobRemote$Builder.class
+com/banorte/azure/blobstorage/ResultSetAsInputStream$1.class
+com/banorte/azure/blobstorage/ResultSetAsInputStream$Builder.class
+com/banorte/azure/blobstorage/ResultSetAsInputStream.class
+blob_storage/upload_fraom_db/App.class
+com/banorte/azure/blobstorage/BlobRemote.class
