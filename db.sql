@@ -1,0 +1,2 @@
+create table mock_date(  id integer  primary key GENERATED ALWAYS AS IDENTITY(START WITH 1, INCREMENT BY 1),descrip varchar(100) default 'algo',date_time timestamp default current_timestamp);
+insert into mock_date(descrip) values ('algo');
